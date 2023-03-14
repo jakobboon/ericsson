@@ -1,0 +1,149 @@
+body {
+    background : gray
+    
+    
+}
+
+header {
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+
+.model1{
+    display: block;
+    width: 200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto
+}
+
+p{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    margin-left: 300px;
+    object-fit:contain
+  }
+  .grid-item {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 10px;
+    text-align: center;
+    object-fit:contain
+  }
+
+  .logo1 {
+    width: 600px;
+  }
+
+  .sonyfont {
+    width: 500px;
+  }
+
+  .artificalgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+
+  .autotechgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+  
+  .bachgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+
+  .bigbeatgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+
+  .bouncegraphic {
+    width: 300px;
+    object-fit:contain
+  }
+ 
+  .clubalivegraphic {
+    width: 300px;
+    object-fit:contain
+  }
+
+  .crystalgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+
+  .dangergraphic {
+    width: 300px;
+    object-fit:contain
+  }
+
+  .destinygraphic {
+    width: 300px;
+    object-fit:contain
+  }
+  
+  .digitalisgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+  
+  .dogsgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+ 
+  .luciousgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+  
+  .melancholicsgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+ 
+  .sunbeamzgraphic {
+    width: 300px;
+    object-fit:contain
+  }
+
+  .notlategraphic {
+    width: 300px;
+    object-fit:contain
+  }
+
+  .play {
+    display: block;
+    width: 500px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+  hr {
+    display: block;
+    margin-top: 3em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
